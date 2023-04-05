@@ -21,6 +21,17 @@ NumofBreakdownsStr= "Number of breakdowns: " + str(data[data['Team Number'] == t
 DefenseStr = "Average defense level: " + str(data[data['Team Number'] == team_number]['DEFENSE'].mean())
 StatBotinfo = pd.DataFrame(sb.get_team_year(team_number, dt.datetime.now().year, ['auto_epa_end', 'teleop_epa_end', 'endgame_epa_end', 'epa_end']), index=[0])
 
+cable_tray_start_frequency = list(data[data['Team Number'] == team_number]['Start Position']).count(0)
+charging_station_start_frequency = list(data[data['Team Number'] == team_number]['Start Position']).count(1)
+clear_side_start_frequency = list(data[data['Team Number'] == team_number]['Start Position']).count(2)
+
+plt.bar(['Cable Tray', 'Charging Station', 'Clear Side'], [cable_tray_start_frequency, charging_station_start_frequency, clear_side_start_frequency])
+plt.xlabel('Start Position')
+plt.ylabel('Frequency')
+plt.title('Start Position Frequency')
+plt.savefig('start_position.png')
+plt.close()
+
 low_auto_cube_points = [x * 3 for x in list(data[data['Team Number'] == team_number]['Auto Low Cube'])]
 mid_auto_cube_points = [x * 4 for x in list(data[data['Team Number'] == team_number]['Auto Mid Cube'])]
 top_auto_cube_points = [x * 6 for x in list(data[data['Team Number'] == team_number]['Auto High Cube'])]
@@ -69,6 +80,7 @@ for xc in MatchesPlayed:
 plt.plot(MatchesPlayed, total_points)
 plt.xlabel('Match Number')
 plt.ylabel('Points')
+plt.title('Points vs Match Number')
 plt.savefig('scorevmatch.png')
 plt.close()
 
@@ -78,6 +90,7 @@ for xc in MatchesPlayed:
 plt.plot(MatchesPlayed, total_auto_scores)
 plt.xlabel('Match Number')
 plt.ylabel('Auto Points')
+plt.title('Auto Points vs Match Number')
 plt.savefig('auto_scorevmatch.png')
 plt.close()
 
@@ -98,6 +111,7 @@ cube_line = plt.plot(MatchesPlayed, teleop_cube_scores)
 plt.xlabel('Match Number')
 plt.ylabel('Teleop Points')
 plt.legend((total[0], link_line[0], cone_line[0], cube_line[0]), ('Total', 'Links', 'Cones', 'Cubes'))
+plt.title('Teleop Points vs Match Number')
 plt.savefig('teleop_scorevmatch.png')
 plt.close()
 
@@ -144,6 +158,7 @@ for status in list(data[data['Team Number'] == team_number]['Tele Charge Station
 plt.bar(MatchesPlayed, teams_on_station)
 plt.xlabel('Match Number')
 plt.ylabel('Number of Robots on Charge Station')
+plt.title('Number of Robots on Charge Station and Charge Status vs Match Number')
 
 # new y label on other side
 ax2 = plt.twinx()
@@ -187,6 +202,7 @@ html = f'''
     <p>{DefenseStr}</p>
     <p>{StatBotinfo.to_html(classes='table', header="true", index=False)}</p>
     <img src="{path}/scorevmatch.png" alt="Score vs Match">
+    <img src="{path}/start_position.png" alt="Start Position">
     <br>
 
     <h1>Auto</h1>
@@ -237,7 +253,7 @@ html = f'''
 </body>
 </html>
 
-            '''
+'''
 
 
 
