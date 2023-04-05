@@ -164,11 +164,6 @@ plt.title('Number of Robots on Charge Station and Charge Status vs Match Number'
 ax2 = plt.twinx()
 ax2.set_ylabel('Charge Station Status')
 plt.yticks([1, 2, 3], ['Parked', 'Docked', 'Engage'])
-
-#extend image to the right
-
-
-
 plt.savefig('teleop_parked_docked_engaged.png')
 plt.close()
 
