@@ -144,6 +144,16 @@ for status in list(data[data['Team Number'] == team_number]['Tele Charge Station
 plt.bar(MatchesPlayed, teams_on_station)
 plt.xlabel('Match Number')
 plt.ylabel('Number of Robots on Charge Station')
+
+# new y label on other side
+ax2 = plt.twinx()
+ax2.set_ylabel('Charge Station Status')
+plt.yticks([1, 2, 3], ['Parked', 'Docked', 'Engage'])
+
+#extend image to the right
+
+
+
 plt.savefig('teleop_parked_docked_engaged.png')
 plt.close()
 
@@ -179,7 +189,7 @@ html = f'''
     <img src="{path}/scorevmatch.png" alt="Score vs Match">
     <br>
 
-    <h1>Auto"</h1>
+    <h1>Auto</h1>
     <img src="{path}/auto_scorevmatch.png" alt="Auto Score vs Match">
      <div class="row">
         <div class="col-sm-4">
@@ -223,7 +233,7 @@ html = f'''
         <p>{comments_str}</p>
     </div>
 </div>
-
+<br>
 </body>
 </html>
 
