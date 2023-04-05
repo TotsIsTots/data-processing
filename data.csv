@@ -1,0 +1,345 @@
+Match Number,Alliance,Team Number,Auto High Cone,Auto Mid Cone,Auto Low Cone,Auto High Cube,Auto Mid Cube,Auto Low Cube,Auto Total GP,Auto Charge Station,Auto Docked,Auto Engage,Mobility,MOBILITY,Tele High Cone,Tele Mid Cone,Tele Low Cone,Tele High Cube,Tele Mid Cube,Tele Low Cube,Tele Total GP,Links,Tele Charge Station,Tele Engaged,Penalties,PENALTIES,Robot Breakdown,BREAKDOWN,Defense,DEFENSE,Comment
+10,red,2960,0,0,0,0,0,0,0,No,0,0,TRUE,1,2,0,3,1,0,2,8,3,Parked,0,FALSE,0,FALSE,0,,0,
+10,red,6089,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,No,0,FALSE,0,TRUE,1,,0,didnt move at all
+10,red,247,1,0,0,0,0,0,1,No,0,0,TRUE,1,0,0,0,3,0,1,4,1,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+5,blue,9252,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,No,0,FALSE,0,FALSE,0,Completely Played Very Well,3,
+5,blue,818,1,0,0,0,0,0,1,Engaged,0,1,TRUE,1,2,1,0,0,0,1,4,0,Engaged,1,FALSE,0,FALSE,0,,0,
+5,blue,818,1,0,0,0,0,0,1,Engaged,0,1,TRUE,1,2,1,0,0,0,1,4,0,Engaged,1,FALSE,0,FALSE,0,,0,
+5,red,201,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,1,1,0,0,0,2,0,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+5,blue,2851,1,0,0,0,0,0,1,No,0,0,FALSE,0,0,0,0,0,0,4,4,1,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+1,red,2960,0,0,0,1,0,0,1,Docked,1,0,TRUE,1,4,0,1,1,0,0,6,1,Engaged,1,FALSE,0,FALSE,0,,0,
+1,red,8364,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,No,0,FALSE,0,TRUE,1,Didn't Play,0,The robot just didn't move.
+1,red,5498,1,0,0,0,0,0,1,No,0,0,FALSE,0,2,0,2,0,0,1,5,1,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,Scored wel but moves slow
+1,blue,9212,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,,0,FALSE,0,FALSE,0,Didn't Play,0,
+1,blue,8623,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,No,0,FALSE,0,FALSE,0,,0,
+1,blue,7188,1,0,0,0,0,0,1,No,0,0,TRUE,1,2,0,0,2,0,0,4,1,Engaged,1,FALSE,0,FALSE,0,,0,
+2,blue,6566,0,0,0,0,0,0,0,,0,0,TRUE,1,0,1,0,0,0,0,1,0,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,cannot pickup
+7,blue,8115,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,,0,FALSE,0,TRUE,1,Didn't Play,0,
+6,blue,7247,0,0,0,0,0,1,1,,0,0,TRUE,1,0,0,0,0,0,2,2,0,No,0,TRUE,1,FALSE,0,,0,
+6,red,4130,0,0,0,0,0,0,0,Engaged,0,1,FALSE,0,2,0,0,1,0,1,4,1,Engaged,1,FALSE,0,FALSE,0,,0,
+6,red,573,1,0,0,0,0,0,1,,0,0,FALSE,0,0,0,0,0,0,0,0,0,Parked,0,FALSE,0,TRUE,1,Played Some Well,2,Arm didnt function
+6,red,226,0,0,0,1,0,0,1,,0,0,TRUE,1,3,0,0,1,0,0,4,3,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+7,blue,8115,0,0,1,0,0,0,1,,0,0,TRUE,1,1,0,0,0,0,0,1,0,,0,FALSE,0,TRUE,1,Didn't Play,0,
+7,blue,4776,1,0,0,0,0,0,1,,0,0,FALSE,0,0,0,0,3,1,0,4,0,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+7,blue,9205,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,No,0,FALSE,0,FALSE,0,Completely Played Very Well,3,
+7,red,67,1,0,0,0,0,0,1,,0,0,TRUE,1,0,0,0,2,0,7,9,4,Parked,0,FALSE,0,FALSE,0,,0,
+7,red,469,1,0,0,0,0,0,1,No,0,0,TRUE,1,2,0,0,0,0,0,2,0,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+7,red,5436,1,0,0,0,0,0,1,Docked,1,0,FALSE,0,1,1,0,1,0,2,5,1,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+8,blue,8124,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,1,1,2,0,Engaged,1,FALSE,0,TRUE,1,Didn't Play,0,intake
+8,blue,8124,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,1,1,2,0,Engaged,1,FALSE,0,TRUE,1,Didn't Play,0,intake
+8,blue,8364,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,,0,FALSE,0,FALSE,0,,0,wasnt on field
+8,blue,9212,0,0,0,0,0,0,0,,0,0,TRUE,1,0,0,0,0,0,0,0,0,No,0,FALSE,0,FALSE,0,Played Poorly,1,
+8,blue,9212,0,0,0,0,0,0,0,,0,0,TRUE,1,0,0,0,0,0,0,0,0,No,0,FALSE,0,FALSE,0,Played Poorly,1,
+8,red,9226,0,0,0,1,0,0,1,,0,0,TRUE,1,3,1,0,0,0,0,4,1,Engaged,1,FALSE,0,FALSE,0,,0,struggle to pick off the wall
+8,red,6566,0,0,0,0,0,0,0,No,0,0,TRUE,1,0,0,0,0,0,1,1,0,No,0,FALSE,0,FALSE,0,Didn't Play,0,
+8,blue,9212,0,0,0,0,0,0,0,,0,0,TRUE,1,0,0,0,0,0,0,0,0,No,0,FALSE,0,FALSE,0,Played Poorly,1,
+11,blue,68,0,0,0,0,0,0,0,,0,0,TRUE,1,2,0,1,3,0,2,8,0,Engaged,1,FALSE,0,FALSE,0,,0,
+11,blue,4130,1,0,0,0,0,0,1,Docked,1,0,FALSE,0,3,0,0,0,0,0,3,1,Docked,0,FALSE,0,FALSE,0,Didn't Play,0,
+11,blue,4130,1,0,0,0,0,0,1,Docked,1,0,FALSE,0,3,0,0,0,0,0,3,1,Docked,0,FALSE,0,FALSE,0,Didn't Play,0,
+11,blue,201,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,4,4,0,,0,TRUE,1,TRUE,1,,0,
+11,red,5239,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,1,1,0,No,0,FALSE,0,TRUE,1,,0,Could not move the entire match
+12,red,9205,0,0,0,0,0,1,1,No,0,0,FALSE,0,0,0,0,0,0,1,1,0,No,0,TRUE,1,FALSE,0,Played Poorly,1,
+11,red,573,1,0,0,0,0,0,1,No,0,0,FALSE,0,1,0,0,1,0,4,6,2,No,0,FALSE,0,FALSE,0,Didn't Play,0,
+12,blue,226,1,0,0,0,0,0,1,Engaged,0,1,FALSE,0,2,0,0,2,1,0,5,2,Engaged,1,FALSE,0,FALSE,0,,0,
+12,blue,5436,1,0,0,0,0,0,1,No,0,0,TRUE,1,2,0,1,2,0,0,5,2,Docked,0,FALSE,0,FALSE,0,Didn't Play,0,good robot; fast cycles
+12,blue,8623,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,,0,FALSE,0,FALSE,0,Played Poorly,1,
+12,red,67,1,0,0,1,0,0,2,No,0,0,TRUE,1,1,0,1,2,0,5,9,4,Engaged,1,FALSE,0,FALSE,0,,0,
+12,red,9205,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,No,0,FALSE,0,FALSE,0,Didn't Play,0,
+12,red,818,0,0,0,0,0,0,0,Docked,1,0,FALSE,0,2,0,2,0,0,0,4,0,Engaged,1,FALSE,0,FALSE,0,Played Some Well,2,
+13,blue,1718,1,0,0,0,0,0,1,Engaged,0,1,TRUE,1,2,1,1,0,0,1,5,3,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+13,blue,5498,1,0,0,0,0,0,1,No,0,0,TRUE,1,1,0,0,0,0,0,1,1,Docked,0,FALSE,0,FALSE,0,Didn't Play,0,slow intake
+13,blue,1188,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,2,0,1,3,0,,0,FALSE,0,FALSE,0,Played Poorly,1,
+13,red,469,1,0,0,0,0,0,1,,0,0,FALSE,0,0,0,0,1,0,0,1,0,Docked,0,FALSE,0,FALSE,0,,0,Did not move for 90 seconds of tele-op until the last 30 seconds
+13,red,6152,0,0,0,1,0,0,1,,0,0,FALSE,0,0,0,0,1,2,0,3,0,No,0,FALSE,0,FALSE,0,Played Some Well,2,
+13,red,7247,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,1,1,0,Parked,0,FALSE,0,FALSE,0,Played Poorly,1,
+14,blue,8826,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,,0,FALSE,0,TRUE,1,Didn't Play,0,no moving
+14,blue,217,0,0,0,0,0,0,0,Docked,1,0,FALSE,0,1,0,0,1,0,0,2,0,,0,FALSE,0,FALSE,0,,0,
+14,blue,4776,0,0,0,0,0,0,0,No,0,0,TRUE,1,3,0,0,1,0,0,4,2,Docked,0,FALSE,0,FALSE,0,Didn't Play,0,
+14,red,5214,0,0,0,0,0,0,0,,0,0,TRUE,1,0,0,0,0,0,0,0,0,No,0,FALSE,0,FALSE,0,Didn't Play,0,
+14,red,8115,0,0,1,0,0,0,1,No,0,0,FALSE,0,0,2,0,0,0,0,2,0,Docked,0,FALSE,0,FALSE,0,Didn't Play,0,needed to be pushex onto the platform
+14,red,9204,0,0,0,0,0,1,1,No,0,0,FALSE,0,0,0,1,0,0,0,1,0,No,0,FALSE,0,FALSE,0,Played Poorly,1,
+15,blue,6566,0,0,1,0,0,0,1,,0,0,FALSE,0,0,0,0,1,0,1,2,0,Engaged,1,FALSE,0,TRUE,1,Didn't Play,0,not miving most of the times
+15,blue,6344,0,0,0,0,1,0,1,Docked,1,0,FALSE,0,0,0,0,3,2,0,5,0,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,cubes only
+15,red,4758,0,0,0,0,0,1,1,,0,0,TRUE,1,0,0,0,0,0,0,0,0,Parked,0,TRUE,1,FALSE,0,Played Some Well,2,slammed into a robot
+15,red,7188,1,0,0,0,0,0,1,No,0,0,FALSE,0,2,0,0,1,0,0,3,0,No,0,FALSE,0,FALSE,0,Completely Played Very Well,3,
+15,red,2851,0,0,0,0,0,0,0,,0,0,TRUE,1,0,0,0,0,0,1,1,0,Engaged,1,FALSE,0,TRUE,1,Completely Played Very Well,3,broke arm during autonomous
+16,blue,8124,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,1,1,0,1,3,0,Engaged,1,FALSE,0,FALSE,0,,0,
+16,blue,5225,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,,0,FALSE,0,FALSE,0,,0,DnF
+16,blue,5239,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,No,0,FALSE,0,FALSE,0,Didn't Play,0,remained in initial spot
+16,red,7716,0,0,0,0,0,0,0,,0,0,TRUE,1,0,0,0,0,0,0,0,0,Engaged,1,FALSE,0,FALSE,0,,0,
+16,red,2960,0,0,0,1,0,0,1,Engaged,0,1,FALSE,0,4,0,0,2,0,0,6,1,Engaged,1,FALSE,0,FALSE,0,Completely Played Very Well,3,
+16,red,9252,0,0,0,0,0,1,1,No,0,0,FALSE,0,0,0,0,0,0,1,1,0,Parked,0,FALSE,0,FALSE,0,Played Some Well,2,
+17,blue,201,0,0,1,0,0,0,1,,0,0,TRUE,1,0,0,0,0,0,5,5,2,Engaged,1,FALSE,0,FALSE,0,,0,
+17,blue,573,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,,0,FALSE,0,FALSE,0,,0,
+17,red,226,1,0,0,0,0,0,1,,0,0,FALSE,0,3,0,0,0,1,0,4,2,Engaged,1,FALSE,0,FALSE,0,,0,
+17,red,6089,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,1,1,0,No,0,FALSE,0,FALSE,0,Played Poorly,1,hardly moved
+17,red,1,0,0,0,1,0,0,1,Engaged,0,1,TRUE,1,0,0,0,1,0,3,4,1,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+17,blue,8364,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,No,0,TRUE,1,FALSE,0,Played Some Well,2,entered red community  multiple times
+18,blue,5619,0,0,0,0,0,0,0,,0,0,TRUE,1,0,0,0,0,0,0,0,0,,0,TRUE,1,FALSE,0,Played Poorly,1,
+18,blue,67,1,0,0,0,0,1,2,,0,0,TRUE,1,1,0,0,0,0,6,7,2,Engaged,1,FALSE,0,FALSE,0,,0,
+18,red,1250,1,0,0,0,0,0,1,Engaged,0,1,FALSE,0,0,0,1,1,0,0,2,1,Engaged,1,FALSE,0,FALSE,0,,0,
+18,red,6152,1,0,0,0,0,0,1,No,0,0,TRUE,1,1,0,0,0,0,0,1,0,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+18,red,8774,1,0,0,0,0,0,1,,0,0,FALSE,0,0,0,1,0,0,0,1,0,Parked,0,FALSE,0,FALSE,0,Played Some Well,2,very slow
+18,blue,4130,1,0,0,0,0,0,1,Engaged,0,1,TRUE,1,2,0,1,1,0,0,4,2,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+20,blue,68,1,0,0,0,0,0,1,Docked,1,0,TRUE,1,1,1,0,1,0,2,5,1,Docked,0,FALSE,0,FALSE,0,Didn't Play,0,
+20,blue,8826,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,,0,FALSE,0,TRUE,1,,0,
+20,red,9204,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,Engaged,1,FALSE,0,FALSE,0,Played Poorly,1,
+20,red,469,1,0,0,0,0,0,1,Engaged,0,1,FALSE,0,0,0,0,2,0,0,2,0,Parked,0,FALSE,0,TRUE,1,Played Some Well,2,Just stopped working out of nowhere. Not the best drivers.
+20,blue,9226,0,0,0,1,0,0,1,No,0,0,TRUE,1,2,0,1,0,0,0,3,0,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+21,blue,5214,0,0,0,0,0,1,1,No,0,0,TRUE,1,0,0,0,0,0,1,1,0,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+21,red,4776,0,0,0,0,0,0,0,,0,0,TRUE,1,2,0,0,0,0,0,2,0,Docked,0,FALSE,0,FALSE,0,,0,
+21,blue,5498,0,0,0,0,0,0,0,No,0,0,FALSE,0,3,0,0,0,0,0,3,0,Engaged,1,FALSE,0,FALSE,0,Completely Played Very Well,3,
+21,red,4776,0,0,0,0,0,0,0,,0,0,FALSE,0,1,0,0,1,0,0,2,1,Parked,0,FALSE,0,FALSE,0,,0,could only scout 2nd half
+21,red,247,0,0,1,0,0,0,1,,0,0,TRUE,1,0,0,0,2,0,2,4,0,Engaged,1,TRUE,1,FALSE,0,Didnt Play,0,auton went too far
+21,red,5436,1,0,0,0,0,0,1,Docked,1,0,FALSE,0,2,0,0,1,0,1,4,2,Docked,0,FALSE,0,FALSE,0,Played Some Well,2,Just stopped working out ofnowhere. Not the best
+22,red,8124,0,0,1,0,0,0,1,,0,0,TRUE,1,0,0,0,1,0,1,2,0,,0,FALSE,0,FALSE,0,,0,
+22,blue,6344,0,0,0,0,0,0,0,Docked,1,0,FALSE,0,4,0,0,2,0,0,6,0,,0,FALSE,0,FALSE,0,,0,
+22,blue,5239,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,No,0,TRUE,1,TRUE,1,Didn't Play,0,something fell out; chassis bot
+22,red,9252,0,0,0,0,0,2,2,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,No,0,FALSE,0,FALSE,0,Played Poorly,1,
+22,red,4758,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,Docked,0,TRUE,1,FALSE,0,Played Poorly,1,Only moved around
+22,red,8124,0,0,0,0,0,0,0,,0,0,TRUE,1,0,0,0,2,0,0,2,0,,0,FALSE,0,FALSE,0,,0,
+23,blue,201,0,0,1,0,0,1,2,No,0,0,FALSE,0,1,0,0,0,0,0,1,0,Engaged,1,FALSE,0,TRUE,1,Didn't Play,0,arm break in auton; fixed mid
+23,blue,201,0,0,1,0,0,1,2,No,0,0,FALSE,0,1,0,0,0,0,0,1,0,Engaged,1,FALSE,0,TRUE,1,Didn't Play,0,arm break in auton; fixed mid
+23,red,67,1,0,0,1,0,0,2,,0,0,TRUE,1,1,0,0,0,1,9,11,4,Engaged,1,FALSE,0,FALSE,0,,0,
+24,blue,1,0,0,0,0,0,0,0,Docked,1,0,FALSE,0,0,0,0,0,0,0,0,0,,0,FALSE,0,TRUE,1,,0,
+23,red,226,0,0,0,1,0,0,1,Engaged,0,1,FALSE,0,3,1,0,0,0,0,4,1,Engaged,1,FALSE,0,FALSE,0,,0,
+23,red,226,0,0,0,1,0,0,1,Engaged,0,1,FALSE,0,3,1,0,0,0,0,4,1,Engaged,1,FALSE,0,FALSE,0,,0,
+23,red,9212,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,No,0,TRUE,1,FALSE,0,,0,1. Didn't score 2. Only moved around 3. Got a penlty for being in the blue zone
+23,red,67,0,0,0,1,0,0,1,,0,0,TRUE,1,1,0,0,2,0,6,9,0,Docked,0,FALSE,0,FALSE,0,,0,
+24,red,8364,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,,0,FALSE,0,FALSE,0,Played Poorly,1,
+24,blue,818,1,0,0,0,0,0,1,Engaged,0,1,FALSE,0,2,3,0,0,0,0,5,3,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,fast cycles
+20,blue,8826,0,0,0,0,0,0,0,Docked,1,0,TRUE,1,3,0,0,0,0,2,5,0,,0,FALSE,0,TRUE,1,,0,
+24,red,8364,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,Engaged,1,FALSE,0,FALSE,0,Played Poorly,1,chassis robot but did not play defense
+24,red,8115,0,1,0,0,0,0,1,,0,0,FALSE,0,2,1,0,0,0,0,3,1,No,0,FALSE,0,FALSE,0,Played Some Well,2,
+24,red,6152,0,0,0,0,0,0,0,No,0,0,TRUE,1,0,0,1,0,2,0,3,0,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,very unbalanced
+25,blue,1718,1,0,0,0,0,0,1,No,0,0,TRUE,1,2,4,0,0,1,0,7,5,No,0,FALSE,0,FALSE,0,Didn't Play,0,
+25,blue,2960,0,0,0,0,0,0,0,Docked,1,0,TRUE,1,2,0,0,0,0,0,2,0,Docked,0,FALSE,0,FALSE,0,,0,
+25,red,4130,1,0,0,0,0,0,1,Docked,1,0,FALSE,0,2,0,0,2,0,0,4,1,No,0,FALSE,0,FALSE,0,Played Some Well,2,
+25,red,8774,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,No,0,FALSE,0,TRUE,1,Didn't Play,0,robot dissconected and arm was very slow
+25,red,9204,0,0,1,0,0,0,1,,0,0,FALSE,0,0,0,0,0,0,0,0,0,Engaged,1,FALSE,0,FALSE,0,Played Some Well,2,chassis
+26,blue,5436,1,0,0,0,0,0,1,Docked,1,0,FALSE,0,2,0,2,1,0,1,6,3,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,slow but accurate
+26,red,217,0,0,0,0,0,0,0,,0,0,TRUE,1,1,0,3,1,0,0,5,0,Docked,0,FALSE,0,FALSE,0,,0,
+26,blue,6089,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,Engaged,1,FALSE,0,FALSE,0,Completely Played Very Well,3,
+26,red,5214,0,0,0,0,0,1,1,No,0,0,FALSE,0,0,0,0,0,1,1,2,0,Engaged,1,FALSE,0,FALSE,0,Played Some Well,2,Was a little slow
+26,red,6566,0,0,1,0,0,0,1,No,0,0,FALSE,0,0,0,0,0,0,2,2,0,Parked,0,TRUE,1,FALSE,0,Didn't Play,0,very slow and drove around aimlessly for most of the match
+27,red,9205,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,,0,FALSE,0,FALSE,0,,0,Did not play
+27,red,7716,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,1,1,1,3,0,,0,FALSE,0,FALSE,0,,0,
+27,red,5619,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,Engaged,1,FALSE,0,FALSE,0,Played Poorly,1,only moved around
+27,red,7716,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,1,1,0,Parked,0,FALSE,0,FALSE,0,Played Poorly,1,Slow and Could not score during auton
+27,blue,1188,0,1,0,0,0,0,1,No,0,0,TRUE,1,0,0,1,0,1,1,3,1,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+27,blue,8826,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,Engaged,1,FALSE,0,TRUE,1,Didn't Play,0,disabled
+28,blue,2851,0,0,0,0,0,0,0,No,0,0,TRUE,1,0,0,0,0,0,0,0,0,No,0,FALSE,0,TRUE,1,Didn't Play,0,battery disconnected
+28,red,4776,0,0,1,-1,0,0,0,Engaged,0,1,FALSE,0,1,0,0,2,0,1,4,1,Engaged,1,FALSE,0,FALSE,0,,0,Did not play
+28,red,5498,1,0,0,0,0,0,1,No,0,0,FALSE,0,1,0,0,1,0,0,2,1,Engaged,1,FALSE,0,FALSE,0,Played Some Well,2,
+28,red,7247,0,0,0,0,0,1,1,No,0,0,TRUE,1,0,0,0,0,0,0,0,0,Parked,0,TRUE,1,TRUE,1,Didn't Play,0,crossed line in auton and very slow arm gripper may have broken
+28,blue,9226,0,0,0,0,0,0,0,No,0,0,TRUE,1,1,0,0,0,0,0,1,0,Engaged,1,FALSE,0,FALSE,0,Played Some Well,2,
+29,blue,201,0,0,0,0,0,1,1,No,0,0,FALSE,0,1,0,1,0,0,0,2,0,Docked,0,FALSE,0,FALSE,0,Didn't Play,0,
+29,blue,5239,0,0,0,0,0,0,0,No,0,0,TRUE,1,0,0,0,0,0,0,0,0,Engaged,1,FALSE,0,FALSE,0,Completely Played Very Well,3,
+29,red,1,0,0,0,0,0,0,0,,0,0,TRUE,1,0,0,0,1,0,2,3,0,,0,FALSE,0,FALSE,0,,0,
+29,red,1,0,0,0,1,0,0,1,No,0,0,TRUE,1,0,0,0,0,0,2,2,1,Parked,0,FALSE,0,FALSE,0,,0,
+29,red,8115,0,0,1,0,0,0,1,No,0,0,FALSE,0,2,0,0,0,0,0,2,0,No,0,FALSE,0,FALSE,0,Played Some Well,2,
+29,red,6344,0,0,0,0,1,0,1,No,0,0,TRUE,1,0,2,1,1,0,0,4,1,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+30,blue,9204,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,,0,FALSE,0,FALSE,0,Didn't Play,0,chassis bot
+30,blue,818,1,0,0,0,0,0,1,Engaged,0,1,FALSE,0,1,2,0,1,1,0,5,1,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+30,red,573,0,0,0,1,0,0,1,No,0,0,TRUE,1,0,0,0,2,0,2,4,2,Engaged,1,FALSE,0,FALSE,0,,0,
+30,red,8124,0,0,1,0,0,0,1,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,No,0,FALSE,0,TRUE,1,Played Poorly,1,didn't move at all during teleop
+30,red,2960,0,0,0,1,0,0,1,Engaged,0,1,TRUE,1,4,0,1,1,0,0,6,2,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+30,blue,4758,0,0,0,0,0,0,0,,0,0,TRUE,1,0,0,0,0,0,0,0,0,,0,FALSE,0,FALSE,0,Played Poorly,1,
+31,blue,469,1,0,0,0,0,0,1,No,0,0,TRUE,1,1,0,0,3,1,0,5,3,Parked,0,FALSE,0,FALSE,0,,0,
+31,blue,1250,0,0,1,0,0,0,1,,0,0,FALSE,0,1,0,0,0,0,1,2,0,Engaged,1,FALSE,0,FALSE,0,,0,
+31,red,7188,1,0,0,0,0,0,1,,0,0,TRUE,1,0,0,1,0,3,0,4,0,Engaged,1,FALSE,0,FALSE,0,,0,
+31,red,217,0,0,0,0,0,1,1,Docked,1,0,FALSE,0,3,1,0,1,0,0,5,2,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,slow driving
+31,red,5436,1,0,0,0,0,0,1,,0,0,FALSE,0,1,0,0,1,1,0,3,1,Parked,0,FALSE,0,FALSE,0,Completely Played Very Well,3,
+31,blue,4130,0,0,0,0,0,0,0,,0,0,TRUE,1,2,1,0,0,0,0,3,0,Docked,0,FALSE,0,FALSE,0,,0,
+32,blue,7716,0,0,1,0,0,0,1,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,Engaged,1,FALSE,0,FALSE,0,Played Poorly,1,
+32,blue,1188,0,0,1,0,0,0,1,No,0,0,TRUE,1,0,0,0,0,0,0,0,0,Engaged,1,FALSE,0,FALSE,0,,0,
+32,blue,5214,0,0,0,0,0,0,0,,0,0,TRUE,1,2,1,0,0,0,0,3,0,Docked,0,FALSE,0,FALSE,0,Didn't Play,0,
+32,red,8364,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,Docked,0,FALSE,0,FALSE,0,Played Poorly,1,
+32,red,68,0,0,0,1,0,0,1,No,0,0,TRUE,1,2,0,1,0,0,2,5,1,Engaged,1,FALSE,0,FALSE,0,,0,
+32,red,68,0,0,0,0,0,0,0,No,0,0,TRUE,1,0,0,0,2,0,2,4,1,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,mostly scored cubes
+33,blue,8774,1,0,0,0,0,0,1,No,0,0,TRUE,1,0,0,0,0,1,0,1,0,No,0,FALSE,0,FALSE,0,Didn't Play,0,got tippied over by 226
+33,blue,226,1,0,0,0,0,0,1,Engaged,0,1,FALSE,0,2,0,0,2,0,1,5,3,Docked,0,FALSE,0,FALSE,0,Didn't Play,0,
+33,blue,2851,0,0,0,0,0,1,1,No,0,0,TRUE,1,0,0,0,0,0,2,2,1,No,0,FALSE,0,TRUE,1,Didn't Play,0,arm stopped then all dead
+33,red,9226,0,0,0,1,0,0,1,No,0,0,TRUE,1,2,0,1,0,0,0,3,1,Parked,0,TRUE,1,FALSE,0,Didn't Play,0,load zone penalty
+33,red,9205,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,1,1,0,No,0,FALSE,0,TRUE,1,Played Poorly,1,Chasiss bot. Broke down in the middle of the match.
+33,red,8623,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,1,1,0,Engaged,1,FALSE,0,FALSE,0,Played Some Well,2,caused their teammate's robot to fall off the station while engaged then engaged
+34,blue,6152,0,0,0,0,0,0,0,No,0,0,TRUE,1,0,0,0,0,0,0,0,0,Engaged,1,FALSE,0,FALSE,0,,0,not moving
+34,blue,5498,1,0,0,0,0,0,1,,0,0,TRUE,1,2,0,0,1,0,0,3,1,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+34,blue,5619,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,Parked,0,FALSE,0,FALSE,0,Played Some Well,2,chassis bot
+34,red,67,1,0,0,1,0,0,2,No,0,0,FALSE,0,0,0,0,1,0,4,5,0,Engaged,1,FALSE,0,FALSE,0,Completely Played Very Well,3,
+34,red,67,0,0,0,1,0,0,1,No,0,0,TRUE,1,0,0,0,1,0,8,9,3,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,very coordinated
+34,red,5225,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,parked on charge station all game and got stuck trying to get up
+35,blue,9252,0,0,0,0,0,1,1,No,0,0,TRUE,1,0,0,0,0,0,1,1,0,No,0,FALSE,0,FALSE,0,,0,chassis bot
+35,blue,7247,0,0,0,0,0,1,1,No,0,0,TRUE,1,0,0,0,0,0,2,2,0,No,0,FALSE,0,FALSE,0,Didn't Play,0,issues intaking
+35,blue,247,0,0,0,0,0,0,0,Engaged,0,1,FALSE,0,0,0,0,0,0,3,3,1,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+35,red,8826,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,1,1,0,No,0,FALSE,0,FALSE,0,Played Poorly,1,hardly scored
+35,red,6089,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,1,1,0,Engaged,1,FALSE,0,TRUE,1,Played Poorly,1,dissconected with 35 seconds left in the match reconected at the end
+35,red,6566,0,1,0,0,0,0,1,No,0,0,TRUE,1,0,0,0,0,1,2,3,0,Parked,0,FALSE,0,FALSE,0,Didn't Play,0,descored ally's charge station
+36,blue,8124,0,0,0,0,1,0,1,,0,0,TRUE,1,0,0,0,0,0,1,1,0,No,0,FALSE,0,FALSE,0,Didn't Play,0,
+36,blue,201,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,4,4,1,Parked,0,FALSE,0,FALSE,0,Didn't Play,0,bottom only; slow
+38,blue,9212,1,0,0,0,0,0,1,,0,0,TRUE,1,3,0,0,0,0,0,3,0,No,0,FALSE,0,FALSE,0,Played Poorly,1,
+36,red,8115,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,2,1,0,0,3,1,No,0,FALSE,0,FALSE,0,,0,
+36,red,5436,0,0,0,0,0,0,0,No,0,0,FALSE,0,1,0,0,1,1,0,3,1,Engaged,1,FALSE,0,TRUE,1,Played Some Well,2,broke down during teleop for around 40 seconds
+36,red,818,0,0,1,0,0,0,1,Engaged,0,1,FALSE,0,3,0,0,0,1,0,4,1,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,reliable intake
+37,blue,1,0,0,0,1,0,0,1,,0,0,TRUE,1,0,0,0,2,0,1,3,0,Parked,0,FALSE,0,FALSE,0,Didn't Play,0,
+37,blue,4130,1,0,0,0,0,0,1,Engaged,0,1,FALSE,0,3,0,0,0,0,0,3,2,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+37,red,9204,0,0,0,0,0,1,1,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,Engaged,1,FALSE,0,FALSE,0,Played Poorly,1,only moved around
+37,red,6344,0,0,0,0,1,0,1,,0,0,FALSE,0,1,0,1,1,0,0,3,0,Engaged,1,FALSE,0,FALSE,0,,0,
+37,red,1188,0,1,0,0,0,0,1,No,0,0,TRUE,1,0,1,1,0,1,0,3,1,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+37,blue,5214,0,0,0,0,0,0,0,,0,0,TRUE,1,0,0,0,0,0,0,0,0,Engaged,1,FALSE,0,TRUE,1,Played Poorly,1,
+38,blue,4758,0,0,0,0,0,1,1,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,Engaged,1,FALSE,0,FALSE,0,Completely Played Very Well,3,
+38,red,469,1,0,0,0,0,0,1,,0,0,FALSE,0,0,0,1,1,2,1,5,0,Parked,0,FALSE,0,FALSE,0,Completely Played Very Well,3,
+38,red,9226,0,0,0,1,0,0,1,,0,0,TRUE,1,2,1,0,0,0,0,3,1,Engaged,1,FALSE,0,FALSE,0,,0,
+38,red,573,1,0,0,0,0,0,1,Engaged,0,1,FALSE,0,2,2,0,1,0,0,5,3,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+38,blue,9212,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,,0,FALSE,0,FALSE,0,Didn't Play,0,
+38,blue,7716,0,0,0,0,0,0,0,No,0,0,TRUE,1,1,0,1,0,0,0,2,0,No,0,FALSE,0,FALSE,0,,0,
+39,blue,67,1,0,0,0,0,0,1,,0,0,TRUE,1,1,0,0,0,0,0,1,0,,0,FALSE,0,FALSE,0,Played Poorly,1,
+39,blue,8364,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,Docked,0,FALSE,0,FALSE,0,Played Poorly,1,
+39,red,4776,1,0,0,0,0,0,1,,0,0,FALSE,0,2,0,0,1,0,0,3,1,Engaged,1,FALSE,0,FALSE,0,Played Some Well,2,
+39,red,1718,1,0,0,0,0,0,1,Engaged,0,1,TRUE,1,3,0,0,2,0,0,5,3,Engaged,1,FALSE,0,FALSE,0,,0,
+39,blue,8623,0,0,0,0,0,0,0,No,0,0,TRUE,1,0,0,0,0,0,0,0,0,Engaged,1,FALSE,0,FALSE,0,,0,
+39,red,2851,0,0,0,0,0,1,1,No,0,0,TRUE,1,0,0,0,0,0,0,0,0,No,0,FALSE,0,FALSE,0,,0,stopped in the middle of the field still connected but not moving
+40,red,1250,1,0,0,0,0,0,1,Engaged,0,1,FALSE,0,0,1,0,3,1,0,5,1,Parked,0,FALSE,0,FALSE,0,Completely Played Very Well,3,
+40,red,5239,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,Engaged,1,FALSE,0,FALSE,0,Played Poorly,1,
+40,red,226,1,0,0,0,0,0,1,No,0,0,TRUE,1,4,0,0,0,0,0,4,2,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+40,blue,9252,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,Docked,0,FALSE,0,FALSE,0,Played Poorly,1,
+40,blue,5498,0,0,0,0,0,0,0,,0,0,FALSE,0,2,0,0,2,0,0,4,0,Engaged,1,FALSE,0,FALSE,0,Played Poorly,1,
+40,blue,5498,0,0,0,0,0,0,0,No,0,0,TRUE,1,2,0,0,2,0,0,4,0,Engaged,1,FALSE,0,FALSE,0,,0,
+41,blue,247,0,0,0,0,0,0,0,Engaged,0,1,FALSE,0,0,0,0,0,0,1,1,0,Engaged,1,FALSE,0,TRUE,1,Played Poorly,1,
+41,red,217,0,0,0,1,0,0,1,Docked,1,0,FALSE,0,4,0,0,1,0,1,6,1,Engaged,1,FALSE,0,FALSE,0,Completely Played Very Well,3,
+41,red,6089,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,1,1,0,Parked,0,FALSE,0,FALSE,0,Played Some Well,2,
+41,blue,247,0,0,0,0,0,0,0,No,0,0,TRUE,1,4,0,0,4,0,0,8,1,Engaged,1,FALSE,0,FALSE,0,,0,
+41,blue,6152,0,0,0,0,0,0,0,No,0,0,FALSE,0,2,0,0,1,0,0,3,1,Parked,0,FALSE,0,FALSE,0,Didn't Play,0,
+42,red,7247,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,,0,FALSE,0,FALSE,0,,0,did not play
+42,blue,8774,1,0,0,0,0,0,1,,0,0,TRUE,1,0,0,0,1,0,1,2,0,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+42,blue,5225,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,Parked,0,FALSE,0,TRUE,1,Didn't Play,0,chassis; disabled at start
+42,blue,8774,0,0,0,0,0,0,0,No,0,0,TRUE,1,3,0,0,2,0,0,5,1,Engaged,1,FALSE,0,FALSE,0,,0,
+42,red,68,1,0,0,0,0,0,1,,0,0,FALSE,0,2,0,0,3,1,0,6,2,Engaged,1,FALSE,0,FALSE,0,Completely Played Very Well,3,
+43,blue,1188,0,0,0,0,0,0,0,No,0,0,TRUE,1,0,0,0,0,1,0,1,1,Engaged,1,FALSE,0,FALSE,0,,0,
+43,red,5214,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,1,0,1,0,Engaged,1,FALSE,0,FALSE,0,Played Poorly,1,
+43,blue,8124,0,0,0,1,0,0,1,No,0,0,FALSE,0,0,0,0,0,0,1,1,0,No,0,FALSE,0,FALSE,0,Didn't Play,0,can't really intake
+43,red,5214,0,0,0,0,0,1,1,No,0,0,TRUE,1,0,0,0,0,1,1,2,0,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,very slow and pushed most pieces
+43,red,469,1,0,0,0,0,0,1,Engaged,0,1,FALSE,0,2,0,1,2,0,0,5,2,Docked,0,FALSE,0,FALSE,0,Didn't Play,0,
+44,blue,9204,0,0,0,0,0,1,1,,0,0,FALSE,0,0,0,0,0,0,0,0,0,,0,FALSE,0,TRUE,1,Played Some Well,2,chassis; disabled midway
+44,blue,5436,0,0,0,0,0,0,0,Docked,1,0,FALSE,0,3,0,0,0,0,0,3,0,Engaged,1,FALSE,0,FALSE,0,Played Poorly,1,
+44,blue,5436,0,0,0,0,0,0,0,No,0,0,TRUE,1,1,0,0,0,0,0,1,1,Engaged,1,FALSE,0,FALSE,0,,0,
+44,red,573,1,0,0,0,0,0,1,Engaged,0,1,FALSE,0,2,0,0,1,1,0,4,1,Engaged,1,FALSE,0,FALSE,0,Completely Played Very Well,3,
+44,red,2851,0,0,0,0,0,1,1,,0,0,FALSE,0,0,0,0,0,0,2,2,1,Engaged,1,FALSE,0,FALSE,0,,0,
+44,red,8623,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,No,0,TRUE,1,FALSE,0,Played Poorly,1,touched charge station played defense against the dissconected bot
+45,blue,8364,0,0,0,0,0,0,0,,0,0,TRUE,1,0,0,0,0,0,0,0,0,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+45,blue,818,0,0,1,0,0,0,1,No,0,0,FALSE,0,0,1,0,0,0,0,1,0,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,poor driving/operating
+45,red,7716,0,0,0,1,0,0,1,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,,0,FALSE,0,TRUE,1,Played Poorly,1,broke down during teleop for a very long time
+45,red,4130,1,0,0,0,0,0,1,,0,0,FALSE,0,3,0,0,1,0,1,5,3,Engaged,1,FALSE,0,FALSE,0,,0,
+45,red,5498,1,0,0,0,0,0,1,No,0,0,TRUE,1,1,0,1,1,0,1,4,1,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+45,blue,8364,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,Engaged,1,FALSE,0,FALSE,0,,0,
+46,blue,67,0,0,0,0,0,1,1,No,0,0,TRUE,1,4,0,0,3,0,5,12,4,No,0,FALSE,0,FALSE,0,Didn't Play,0,
+46,blue,6089,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,1,1,0,Engaged,1,FALSE,0,FALSE,0,Completely Played Very Well,3,
+46,blue,6089,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,1,1,0,Engaged,1,FALSE,0,FALSE,0,Completely Played Very Well,3,
+46,red,247,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,3,3,1,No,0,FALSE,0,FALSE,0,,0,
+46,red,8826,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,2,2,0,No,0,FALSE,0,FALSE,0,Played Poorly,1,
+46,red,5239,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,Parked,0,TRUE,1,FALSE,0,Played Poorly,1,human player station penalty and fell off charge station
+47,blue,9205,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,No,0,FALSE,0,TRUE,1,Didn't Play,0,chassis bot and dead
+47,blue,6344,0,0,0,0,0,0,0,,0,0,FALSE,0,1,0,0,2,1,0,4,0,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+47,blue,9252,0,0,0,0,0,0,0,,0,0,TRUE,1,0,0,0,0,0,2,2,0,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+47,red,7247,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,,0,FALSE,0,TRUE,1,Didn't Play,0,Lost communications for all of tele-op
+47,red,9226,0,0,0,1,0,0,1,No,0,0,TRUE,1,3,0,0,0,0,1,4,1,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,only robot on their team moving
+48,blue,7188,1,0,0,0,0,0,1,No,0,0,TRUE,1,3,0,1,0,0,0,4,0,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+48,blue,7188,1,0,0,0,0,0,1,,0,0,FALSE,0,2,0,0,0,0,0,2,1,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+48,red,217,0,0,0,1,1,0,2,Docked,1,0,FALSE,0,0,3,0,0,0,0,3,0,Engaged,1,FALSE,0,FALSE,0,Played Some Well,2,
+48,red,201,0,0,0,0,0,1,1,,0,0,FALSE,0,0,0,0,0,0,5,5,2,Parked,0,FALSE,0,FALSE,0,,0,
+48,red,8774,1,0,0,0,0,0,1,No,0,0,TRUE,1,0,0,0,1,1,0,2,0,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,very top heavy
+48,blue,6152,0,0,0,1,0,0,1,Docked,1,0,TRUE,1,0,0,0,2,1,1,4,0,Parked,0,FALSE,0,FALSE,0,Didn't Play,0,
+49,blue,4776,0,0,1,0,0,0,1,No,0,0,TRUE,1,1,1,2,0,0,1,5,0,Parked,0,FALSE,0,FALSE,0,,0,slow
+49,blue,4776,0,0,1,0,0,0,1,No,0,0,TRUE,1,1,1,2,0,0,1,5,0,Parked,0,FALSE,0,FALSE,0,,0,slow
+49,red,5619,0,0,0,0,0,0,0,,0,0,TRUE,1,0,0,0,0,0,0,0,0,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+49,red,9212,0,0,0,1,0,0,1,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,No,0,FALSE,0,FALSE,0,Didn't Play,0,did almost nothing the entire time
+49,blue,226,1,0,0,0,0,0,1,Engaged,0,1,TRUE,1,2,1,1,0,0,0,4,1,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+49,blue,226,1,0,0,0,0,0,1,Engaged,0,1,FALSE,0,2,1,0,0,0,0,3,0,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+49,red,2960,0,0,0,1,0,0,1,Engaged,0,1,FALSE,0,3,0,2,0,0,0,5,1,Engaged,1,FALSE,0,TRUE,1,,0,gripper was not opening
+50,blue,8115,0,0,1,0,0,0,1,No,0,0,TRUE,1,0,1,0,1,1,0,3,0,Parked,0,FALSE,0,FALSE,0,,0,
+50,blue,573,1,0,0,0,0,0,1,Engaged,0,1,FALSE,0,0,0,0,1,1,3,5,0,Engaged,1,FALSE,0,TRUE,1,Didn't Play,0,
+50,blue,4758,0,0,0,0,0,1,1,,0,0,TRUE,1,0,0,0,0,0,1,1,0,Engaged,1,FALSE,0,FALSE,0,Completely Played Very Well,3,
+50,red,5498,1,0,0,0,0,0,1,No,0,0,FALSE,0,1,0,0,1,0,0,2,2,No,0,FALSE,0,FALSE,0,Played Poorly,1,
+50,red,8623,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,1,1,0,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,only got on the charge stattion
+50,red,1250,1,0,0,0,0,0,1,Engaged,0,1,FALSE,0,0,0,0,2,0,0,2,0,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,only picked up from human player station
+51,blue,1718,1,0,0,0,0,0,1,Engaged,0,1,TRUE,1,5,0,0,1,0,0,6,3,Engaged,1,FALSE,0,FALSE,0,,0,
+51,blue,1,0,0,0,1,0,0,1,,0,0,TRUE,1,0,0,0,1,0,0,1,0,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+51,red,6089,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,1,1,0,Parked,0,FALSE,0,FALSE,0,Played Some Well,2,Played some defense■ was a chasiss robot.
+51,red,818,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,Parked,0,FALSE,0,FALSE,0,Played Poorly,1,
+51,red,5214,0,0,0,0,0,1,1,No,0,0,FALSE,0,0,0,0,0,1,1,2,0,Parked,0,FALSE,0,FALSE,0,Played Some Well,2,
+51,blue,5239,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,,0,FALSE,0,FALSE,0,Didn't Play,0,didnt do anything entire match
+52,blue,5436,1,0,0,0,0,0,1,Docked,1,0,FALSE,0,4,0,0,1,0,0,5,2,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+52,blue,5225,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,,0,TRUE,1,FALSE,0,Played Poorly,1,
+52,blue,8826,0,0,0,1,0,0,1,,0,0,FALSE,0,0,0,0,0,0,0,0,0,Docked,0,FALSE,0,FALSE,0,Played Poorly,1,
+52,red,6344,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,2,0,1,1,1,5,1,No,0,FALSE,0,FALSE,0,Played Some Well,2,
+52,red,247,0,0,0,0,0,0,0,Engaged,0,1,FALSE,0,0,0,0,0,0,4,4,2,Parked,0,FALSE,0,FALSE,0,Didn't Play,0,
+52,red,8364,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,Engaged,1,FALSE,0,FALSE,0,Played Some Well,2,Played some defense■ was another chassis robot.
+53,blue,8774,1,0,0,0,0,0,1,No,0,0,TRUE,1,0,0,0,0,2,0,2,1,Parked,0,FALSE,0,FALSE,0,Didn't Play,0,
+53,blue,469,1,0,0,0,0,0,1,No,0,0,FALSE,0,3,0,0,3,0,0,6,1,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+53,blue,7716,0,0,0,0,0,0,0,,0,0,TRUE,1,1,0,0,0,0,0,1,0,Parked,0,FALSE,0,FALSE,0,,0,
+53,red,1188,0,1,0,0,0,0,1,No,0,0,FALSE,0,0,1,0,0,1,0,2,1,Parked,0,FALSE,0,FALSE,0,Played Some Well,2,
+53,red,201,0,0,0,0,0,0,0,Docked,1,0,FALSE,0,0,0,0,0,0,3,3,0,Parked,0,FALSE,0,TRUE,1,Played Some Well,2,Knocked in to the wall and disconnected.
+53,red,2851,0,0,0,0,0,1,1,,0,0,TRUE,1,0,0,0,0,1,3,4,1,Engaged,1,FALSE,0,FALSE,0,Played Some Well,2,
+54,blue,6566,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,2,1,3,0,Parked,0,FALSE,0,FALSE,0,Didn't Play,0,slow
+54,blue,226,2,0,1,1,0,0,4,,0,0,TRUE,1,0,0,0,0,0,0,0,0,Engaged,1,FALSE,0,FALSE,0,,0,
+54,blue,8124,0,0,0,1,0,0,1,Docked,1,0,FALSE,0,0,0,0,0,0,0,0,0,Engaged,1,FALSE,0,TRUE,1,,0,
+54,red,4130,1,0,0,0,0,0,1,Docked,1,0,FALSE,0,1,0,1,1,0,1,4,1,No,0,FALSE,0,FALSE,0,Played Some Well,2,
+54,red,7188,1,0,0,0,0,0,1,,0,0,TRUE,1,1,0,0,1,0,0,2,1,Engaged,1,FALSE,0,FALSE,0,,0,
+54,red,4776,1,0,0,0,0,0,1,No,0,0,TRUE,1,1,0,0,1,0,0,2,1,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,engaged charge station with 60 seconds left
+1,red,2960,0,0,0,1,0,0,1,Docked,1,0,TRUE,1,4,0,1,1,0,0,6,1,Engaged,1,FALSE,0,FALSE,0,,0,
+1,red,8364,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,No,0,FALSE,0,TRUE,1,Didn't Play,0,The robot just didn't move.
+1,red,5498,1,0,0,0,0,0,1,No,0,0,FALSE,0,2,0,2,0,0,1,5,1,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,Scored wel but moves slow
+1,blue,9212,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,,0,FALSE,0,FALSE,0,Didn't Play,0,
+1,blue,8623,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,No,0,FALSE,0,FALSE,0,,0,
+1,blue,7188,1,0,0,0,0,0,1,No,0,0,TRUE,1,2,0,0,2,0,0,4,1,Engaged,1,FALSE,0,FALSE,0,,0,
+2,red,8774,0,0,1,0,0,0,1,,0,0,TRUE,1,0,0,0,0,0,0,0,0,,0,FALSE,0,TRUE,1,,0,Flipped over at the start of Teleop on their back.
+2,blue,7716,0,0,1,0,0,0,1,No,0,0,TRUE,1,0,0,0,0,0,0,0,0,No,0,FALSE,0,FALSE,0,Didn't Play,0,
+2,blue,247,0,0,0,0,0,0,0,No,0,0,TRUE,1,0,1,0,0,2,0,3,0,No,0,FALSE,0,TRUE,1,,0,i think they battery died
+2,blue,6566,0,0,0,0,0,0,0,,0,0,TRUE,1,0,1,0,0,0,0,1,0,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,cannot pickup
+2,red,5619,0,0,0,0,0,0,0,No,0,0,TRUE,1,0,0,0,0,0,0,0,0,Engaged,1,FALSE,0,FALSE,0,Played Some Well,2,
+2,red,1,0,0,0,1,0,0,1,No,0,0,TRUE,1,0,0,0,0,0,5,5,1,No,0,FALSE,0,FALSE,0,Didn't Play,0,Not sure why they nly scored on the bottom row during teleop They could score on a higher row during auton
+55,blue,2960,0,0,0,0,1,0,1,,0,0,FALSE,0,2,0,0,0,0,2,4,0,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+55,red,9226,0,0,0,1,0,0,1,,0,0,TRUE,1,3,0,0,0,0,0,3,1,Docked,0,FALSE,0,FALSE,0,,0,
+55,red,9252,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,Engaged,1,FALSE,0,FALSE,0,Played Poorly,1,
+55,blue,217,0,0,0,1,0,0,1,,0,0,TRUE,1,3,1,0,0,0,0,4,0,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+55,blue,67,1,0,0,1,0,0,2,No,0,0,TRUE,1,0,0,0,1,0,6,7,1,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,three balance■ yay
+55,red,5619,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,Engaged,1,TRUE,1,FALSE,0,Played Poorly,1,did not score anything
+56,red,6152,1,0,0,0,0,0,1,,0,0,TRUE,1,2,0,0,0,1,0,3,1,Engaged,1,FALSE,0,FALSE,0,,0,
+56,red,9212,0,0,0,1,0,0,1,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,No,0,FALSE,0,FALSE,0,Didn't Play,0,did not move
+56,red,68,0,0,1,0,0,0,1,Engaged,0,1,FALSE,0,1,0,1,2,0,2,6,0,Engaged,1,FALSE,0,FALSE,0,Completely Played Very Well,3,
+56,blue,7247,0,0,0,0,0,0,0,,0,0,TRUE,1,0,0,0,0,0,3,3,0,Docked,0,FALSE,0,FALSE,0,,0,
+56,blue,9205,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,1,0,0,1,0,No,0,FALSE,0,FALSE,0,Played Some Well,2,
+56,blue,9204,0,0,0,0,0,1,1,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,No,0,FALSE,0,TRUE,1,Completely Played Very Well,3,started disabled but fixed
+57,blue,573,0,0,0,1,0,0,1,Engaged,0,1,FALSE,0,0,0,0,2,0,2,4,2,No,0,FALSE,0,TRUE,1,,0,broken wrist■ can still intake
+57,red,6344,0,0,0,0,1,0,1,Docked,1,0,FALSE,0,1,1,0,2,0,0,4,0,Engaged,1,FALSE,0,FALSE,0,Played Some Well,2,
+57,blue,6089,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,Parked,0,FALSE,0,FALSE,0,Completely Played Very Well,3,
+57,blue,5498,1,0,0,0,0,0,1,,0,0,FALSE,0,2,0,0,0,0,0,2,0,,0,FALSE,0,FALSE,0,Played Poorly,1,
+57,red,5214,0,0,0,0,0,0,0,,0,0,TRUE,1,0,0,0,0,0,1,1,0,Parked,0,TRUE,1,FALSE,0,,0,in opponent's community so 1 penalty
+57,red,5225,0,0,0,0,0,0,0,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,Engaged,1,FALSE,0,FALSE,0,Played Poorly,1,
+58,red,4758,0,0,0,0,0,1,1,,0,0,TRUE,1,0,0,0,0,0,0,0,0,Parked,0,TRUE,1,FALSE,0,Played Poorly,1,1 for in opponent's human playa zone
+58,red,1718,1,0,0,0,0,0,1,Engaged,0,1,FALSE,0,2,0,1,2,0,1,6,2,No,0,FALSE,0,FALSE,0,Completely Played Very Well,3,
+58,blue,8774,1,0,0,0,0,0,1,No,0,0,TRUE,1,0,0,0,1,1,0,2,0,Parked,0,FALSE,0,FALSE,0,Didn't Play,0,slow and not manueverable
+58,blue,8115,0,0,1,0,0,0,1,,0,0,TRUE,1,0,1,0,1,2,0,4,0,Docked,0,FALSE,0,FALSE,0,Didn't Play,0,
+58,blue,8826,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,1,1,0,Docked,0,FALSE,0,TRUE,1,,0,
+58,red,5436,0,0,0,0,0,0,0,No,0,0,TRUE,1,2,0,0,1,0,2,5,1,Parked,0,FALSE,0,FALSE,0,Didn't Play,0,another team stoped charge station from balancing
+59,red,8623,0,0,0,0,0,0,0,,0,0,TRUE,1,0,0,0,0,0,0,0,0,,0,FALSE,0,FALSE,0,,0,was not in the match
+59,red,8623,0,0,0,0,0,0,0,,0,0,TRUE,1,0,0,0,0,0,0,0,0,,0,FALSE,0,FALSE,0,,0,was not in the match
+59,blue,201,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,4,4,2,Docked,0,FALSE,0,FALSE,0,Played Some Well,2,
+59,blue,226,0,0,0,0,0,0,0,,0,0,TRUE,1,2,0,0,1,0,0,3,4,Docked,0,FALSE,0,FALSE,0,Didn't Play,0,
+59,blue,247,0,0,0,0,0,0,0,Engaged,0,1,FALSE,0,0,0,0,0,0,4,4,2,Docked,0,FALSE,0,FALSE,0,Didn't Play,0,triple dock■ almost engaged
+59,red,5239,0,0,0,0,0,0,0,,0,0,FALSE,0,0,0,0,0,0,0,0,0,Parked,0,FALSE,0,FALSE,0,Didn't Play,0,never moved. Do not scout anymore
+59,red,6566,0,1,0,0,0,0,1,No,0,0,TRUE,1,0,0,0,0,1,1,2,0,No,0,TRUE,1,FALSE,0,Didn't Play,0,only robot moving and scoring
+60,blue,469,1,0,0,0,0,0,1,No,0,0,TRUE,1,1,2,0,1,1,0,5,1,No,0,TRUE,1,FALSE,0,Didn't Play,0,FAST cycles■ disabled at end
+60,blue,217,0,0,0,1,0,0,1,Docked,1,0,FALSE,0,1,3,0,0,0,0,4,0,Engaged,1,FALSE,0,FALSE,0,Didn't Play,0,
+60,blue,9252,0,0,0,0,0,1,1,,0,0,FALSE,0,0,0,0,0,0,0,0,0,Engaged,1,TRUE,1,FALSE,0,Played Some Well,2,
+60,red,4776,1,0,0,0,0,0,1,,0,0,FALSE,0,1,0,0,1,0,0,2,1,Engaged,1,FALSE,0,FALSE,0,Played Some Well,2,
+60,red,2960,0,0,0,1,0,0,1,,0,0,FALSE,0,4,0,0,0,0,0,4,2,Engaged,1,FALSE,0,FALSE,0,,0,
+60,red,1,0,0,0,1,0,0,1,No,0,0,TRUE,1,0,0,0,0,0,2,2,1,Parked,0,FALSE,0,FALSE,0,Didn't Play,0,
+61,blue,7188,1,0,0,0,0,0,1,No,0,0,TRUE,1,3,0,0,0,0,0,3,1,No,0,FALSE,0,FALSE,0,Didn't Play,0,
+61,blue,818,0,0,0,0,0,0,0,,0,0,TRUE,1,1,0,0,0,0,0,1,0,Docked,0,FALSE,0,FALSE,0,Played Poorly,1,
+61,blue,7247,0,0,0,0,0,1,1,,0,0,TRUE,1,0,0,0,0,0,1,1,0,No,0,TRUE,1,FALSE,0,Didn't Play,0,
+61,red,9204,0,0,0,0,0,1,1,No,0,0,FALSE,0,0,0,0,0,0,0,0,0,Engaged,1,FALSE,0,FALSE,0,Played Poorly,1,
+61,red,8364,0,0,0,0,0,0,0,No,0,0,TRUE,1,0,0,0,0,0,1,1,0,Engaged,1,FALSE,0,FALSE,0,Played Poorly,1,t
+61,red,8364,0,0,0,0,0,0,0,No,0,0,TRUE,1,0,0,0,0,0,1,1,0,Engaged,1,FALSE,0,FALSE,0,Played Poorly,1,t
+5,red,5214,0,0,0,0,0,0,0,,0,0,TRUE,1,0,0,0,0,2,1,3,0,,0,FALSE,0,FALSE,0,,0,
+61,red,5619,0,0,0,0,0,0,0,,0,0,TRUE,1,0,0,0,0,0,0,0,0,,0,TRUE,1,FALSE,0,Played Poorly,1,in community's zone twice
